@@ -1,4 +1,4 @@
-//This file related to configuration relateds
+//This file related to configuration related
 
 import { Annotation } from '@langchain/langgraph';
 import { RunnableConfig } from '@langchain/core/runnables';
